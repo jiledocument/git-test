@@ -1,7 +1,8 @@
 pulic class demo{
   public static void main(String[] args){
   System.out.println("hello");
-    System.out.println("nihao");
+zhangheng  bi  ni suai xiang xiao a!!!!!!!!
+  System.out.println("nihao");
   }
 }
 
